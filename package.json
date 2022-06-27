@@ -1,6 +1,6 @@
 {
 	"name": "svelte-autoselect",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"author": "NickRTR",
 	"scripts": {
 		"dev": "svelte-kit dev",
