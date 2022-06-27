@@ -1,5 +1,5 @@
 <script>
-    import autoselect from "$lib/autoselect.js";
+    import autoselect from "$lib/Autoselect.svelte";
 
     let example = "Hello World!";
 </script>
