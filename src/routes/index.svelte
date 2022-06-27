@@ -1,5 +1,5 @@
 <script>
-    import autoselect from "$lib/index";
+    import {autoselect} from "$lib/index";
 
     let example = "Hello World!";
 </script>

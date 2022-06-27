@@ -1,4 +1,4 @@
-export function selectTextOnFocus(node) {
+export function autoselect(node) {
     function handleFocus() {
             node && typeof node.select === 'function' && node.select()
     }
@@ -9,5 +9,3 @@ export function selectTextOnFocus(node) {
         }
     }
 }
-
-export default selectTextOnFocus;
