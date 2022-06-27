@@ -9,3 +9,5 @@ export function autoselect(node) {
         }
     }
 }
+
+export default autoselect;
